@@ -34,7 +34,7 @@ class TestHomePage(BaseClass):
         message = homePage.Message().text
         # message = self.driver.find_element(By.CLASS_NAME, "alert-success").text
         print(message)
-        assert "Succes" in message
+        assert "Success" in message
 
         self.driver.refresh()
 
