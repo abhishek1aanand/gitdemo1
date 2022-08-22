@@ -18,7 +18,7 @@ class TestHomePage(BaseClass):
         homePage.pass_Name().send_keys(getData["fullName"])
         # self.driver.find_element(By.CSS_SELECTOR, "input[name='name']").send_keys("Abhishek Anand")
         homePage.pass_Email().send_keys(getData["email"])
-        homePage.pass_Password().send_keys("12345")
+        homePage.pass_Password().send_keys("123456789")
         homePage.checkBox().click()
 
         # self.driver.find_element(By.NAME, "email").send_keys("abhishek1aanand@gmail.com")
