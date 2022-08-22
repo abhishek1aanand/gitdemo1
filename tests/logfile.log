@@ -1,0 +1,97 @@
+2022-07-10 17:52:29,599 :INFO : test_e2e : getting all phone elements
+2022-07-10 17:52:29,863 :INFO : test_e2e : entering country name as India
+2022-07-10 17:52:35,299 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-10 17:54:57,539 :INFO : test_e2e : getting all phone elements
+2022-07-10 17:54:57,578 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="c1b5acdc902a08a3075a1363f25098d9", element="d2455957-8557-47d2-b804-422a2d183c8d")>
+2022-07-10 17:54:57,595 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="c1b5acdc902a08a3075a1363f25098d9", element="340c68e6-591f-464b-a0a9-cb60afb8945e")>
+2022-07-10 17:54:57,617 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="c1b5acdc902a08a3075a1363f25098d9", element="c519eabc-1847-4ddc-afeb-eff5a8c4149e")>
+2022-07-10 17:54:57,633 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="c1b5acdc902a08a3075a1363f25098d9", element="a93e3957-a1e0-4cd4-8b49-95a90c64eb45")>
+2022-07-10 17:54:57,813 :INFO : test_e2e : entering country name as India
+2022-07-10 17:55:03,228 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-10 17:57:18,112 :INFO : test_e2e : getting all phone elements
+2022-07-10 17:57:18,178 :INFO : test_e2e : iphone X
+2022-07-10 17:57:18,212 :INFO : test_e2e : Samsung Note 8
+2022-07-10 17:57:18,244 :INFO : test_e2e : Nokia Edge
+2022-07-10 17:57:18,277 :INFO : test_e2e : Blackberry
+2022-07-10 17:57:18,546 :INFO : test_e2e : entering country name as India
+2022-07-10 17:57:23,998 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-10 18:00:49,374 :INFO : test_formSubmission : Full name is: Abhishek Anand
+2022-07-10 18:00:50,434 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:00:50,434 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:03:07,143 :INFO : test_formSubmission : Full name is: Abhishek Anand
+2022-07-10 18:03:08,143 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:03:08,143 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:03:15,086 :INFO : test_e2e : getting all phone elements
+2022-07-10 18:03:15,150 :INFO : test_e2e : iphone X
+2022-07-10 18:03:15,183 :INFO : test_e2e : Samsung Note 8
+2022-07-10 18:03:15,217 :INFO : test_e2e : Nokia Edge
+2022-07-10 18:03:15,247 :INFO : test_e2e : Blackberry
+2022-07-10 18:03:15,537 :INFO : test_e2e : entering country name as India
+2022-07-10 18:03:21,067 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-10 18:05:51,985 :INFO : test_formSubmission : Full name is: Abhishek Anand
+2022-07-10 18:05:52,991 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:05:52,991 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:05:59,860 :INFO : test_e2e : getting all phone elements
+2022-07-10 18:05:59,921 :INFO : test_e2e : iphone X
+2022-07-10 18:05:59,956 :INFO : test_e2e : Samsung Note 8
+2022-07-10 18:05:59,988 :INFO : test_e2e : Nokia Edge
+2022-07-10 18:06:00,028 :INFO : test_e2e : Blackberry
+2022-07-10 18:06:00,303 :INFO : test_e2e : entering country name as India
+2022-07-10 18:06:05,716 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-10 18:17:53,650 :INFO : test_e2e : getting all phone elements
+2022-07-10 18:17:53,709 :INFO : test_e2e : iphone X
+2022-07-10 18:17:53,744 :INFO : test_e2e : Samsung Note 8
+2022-07-10 18:17:53,777 :INFO : test_e2e : Nokia Edge
+2022-07-10 18:17:53,811 :INFO : test_e2e : Blackberry
+2022-07-10 18:17:54,075 :INFO : test_e2e : entering country name as India
+2022-07-10 18:17:59,492 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-10 18:19:24,682 :INFO : test_formSubmission : Full name is: Abhishek Anand
+2022-07-10 18:19:25,667 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:19:25,667 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-10 18:19:32,425 :INFO : test_e2e : getting all phone elements
+2022-07-10 18:19:32,478 :INFO : test_e2e : iphone X
+2022-07-10 18:19:32,509 :INFO : test_e2e : Samsung Note 8
+2022-07-10 18:19:32,539 :INFO : test_e2e : Nokia Edge
+2022-07-10 18:19:32,570 :INFO : test_e2e : Blackberry
+2022-07-10 18:19:32,828 :INFO : test_e2e : entering country name as India
+2022-07-10 18:19:38,274 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-12 18:06:54,285 :INFO : test_formSubmission : Full name is: Abhishek Anand
+2022-07-12 18:06:55,270 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-12 18:06:55,270 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-12 18:07:02,248 :INFO : test_e2e : getting all phone elements
+2022-07-12 18:07:02,310 :INFO : test_e2e : iphone X
+2022-07-12 18:07:02,347 :INFO : test_e2e : Samsung Note 8
+2022-07-12 18:07:02,389 :INFO : test_e2e : Nokia Edge
+2022-07-12 18:07:02,425 :INFO : test_e2e : Blackberry
+2022-07-12 18:07:02,831 :INFO : test_e2e : entering country name as India
+2022-07-12 18:07:08,261 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-12 18:27:07,882 :INFO : test_formSubmission : Full name is: Abhishek Anand
+2022-07-12 18:27:08,952 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-12 18:27:08,952 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-12 18:27:16,427 :INFO : test_e2e : getting all phone elements
+2022-07-12 18:27:16,486 :INFO : test_e2e : iphone X
+2022-07-12 18:27:16,521 :INFO : test_e2e : Samsung Note 8
+2022-07-12 18:27:16,560 :INFO : test_e2e : Nokia Edge
+2022-07-12 18:27:16,593 :INFO : test_e2e : Blackberry
+2022-07-12 18:27:16,869 :INFO : test_e2e : entering country name as India
+2022-07-12 18:27:22,282 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-12 18:38:45,067 :INFO : test_formSubmission : Full name is: Abhishek Anand
+2022-07-12 18:38:46,089 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-12 18:38:46,089 :INFO : test_formSubmission : Full name is: Sumit Sourav
+2022-07-12 18:38:53,076 :INFO : test_e2e : getting all phone elements
+2022-07-12 18:38:53,135 :INFO : test_e2e : iphone X
+2022-07-12 18:38:53,171 :INFO : test_e2e : Samsung Note 8
+2022-07-12 18:38:53,201 :INFO : test_e2e : Nokia Edge
+2022-07-12 18:38:53,233 :INFO : test_e2e : Blackberry
+2022-07-12 18:38:53,514 :INFO : test_e2e : entering country name as India
+2022-07-12 18:38:58,966 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
